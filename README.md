@@ -1,5 +1,5 @@
 # Welcome to my GitHub profile!
-I’m Sorawee Chirarattanawilai, a fresh graduate AI engineer specializing in computer vision and classification, currently transitioning into a data scientist role. My expertise lies in machine learning, deep learning, and big data analytics, with hands-on experience in Python, SQL, AWS, and TensorFlow.
+I’m Sorawee Chirarattanawilai, a fresh graduate AI engineer specializing in computer vision and classification, with a strong passion for AI, data science, and big data analytics. My expertise includes machine learning, deep learning, and big data processing, with hands-on experience in Python, SQL, AWS, and TensorFlow.
 
 ## About me
 - 🎓 Bachelor of Engineering in Computer Engineering (Exchange Program at the University of Southern Denmark)
